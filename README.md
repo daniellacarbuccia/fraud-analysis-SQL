@@ -1,7 +1,7 @@
 # E-Commerce Fraud Pattern Analysis (In Progress)
 **Author:** Daniella Carbuccia  
 **Start Date:** November 2025  
-**Status:** 🛠️ In Progress  
+**Status:** In Progress  
 **Expected Completion:** November 2025  
 
 ---
